@@ -1,5 +1,5 @@
-eight
+ADUI
 =====
 
-Phone book for LDAP(Active Directory)
+Users info for LDAP(Active Directory)
 
